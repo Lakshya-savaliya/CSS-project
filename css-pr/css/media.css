@@ -1,0 +1,87 @@
+/* XL */
+
+@media(max-width: 1399px){
+
+}
+
+/* LG */
+
+@media(max-width: 1199px){
+     .w-1-lg-banner-items{
+          text-align: center;
+          width: 100%;
+     }
+     .w-1-lg-banner-items img{
+          display: none;
+     }
+     .w-1-lg-service-items{
+          width: 100%;
+          margin-left: 45px;
+     }
+     .w-1-lg-service-box{
+          margin-top: 20px;
+          width: 100%;
+     }
+     .w-md-2{
+          width: 50%;
+          margin-top: 20px;
+          padding: 10px 10px;
+          object-position: top;
+     }
+     .team-inner .team-items .team-img img{
+          object-position: top;  
+     }
+     .our-portfolio-inner .our-portfolio-items .our-portfolio-img img{
+          object-position: top;
+     }
+    
+}
+/* MD */
+
+@media(max-width: 991px){
+     .w-md-1{
+          width: 100%;
+     }
+     .w-md-2{
+          width: 50%;
+     }
+     .w-md-2 .team-inner ul li img{
+          object-position: top;
+     }
+     .team-inner .team-items .team-img img{
+          object-position: top;  
+     }
+     .our-portfolio-inner .our-portfolio-items .our-portfolio-img img{
+          object-position: top;
+     }
+     .w-md{
+          width: 40%;
+          margin-top: 20px;
+          margin-left: 20px;
+     }
+     .w-md-3{
+          width: 33.33%;
+     }
+     nav{
+          overflow: hidden;
+     }
+}
+
+/* LG */
+
+@media(max-width: 767px){
+     .w-lg-1{
+          width: 100%;
+     }
+     .w-lg-2{
+          width: 50%;
+     }
+}
+
+/* XS */
+
+@media(max-width: 575px){
+     .w-xs-2{
+          width: 50%;
+     }
+}
